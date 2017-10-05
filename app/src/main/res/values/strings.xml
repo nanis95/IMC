@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="btacercade">Acerca De :</string>
+    <string name="btsalir">Salir</string>
+    <string name="tvaltura">Altura (m) :</string>
+    <string name="tvpeso">Peso (Kg) :</string>
+    <string name="btcalcular">Calcular</string>
+    <string name="tvpress">INDICE DE MASA CORPORAL</string>
+    <string name="exaltura">Debe ingresar su altura en Metros.</string>
+    <string name="expeso">Debe ingresar su peso en Kilogramos:</string>
+    <string name="eximc">Su IMC es :</string>
+    <string name="develop">Desarrollado por : ANDRES VALENCIA</string>
+    <string name="pesonorm">::  IMC : NORMAL</string>
+    <string name="pesobajo">:: IMC : PESO BAJO</string>
+    <string name="peso11">:: IMC : SOBREPESO</string>
+    <string name="peso22">:: IMC : OBESO</string>
+    <string name="peso33">:: IMC : OBESIDAD SEVERA</string>
+</resources>

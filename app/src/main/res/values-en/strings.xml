@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="btacercade">About Of:</string>
+    <string name="btcalcular">Estimate</string>
+    <string name="btsalir">Finish</string>
+    <string name="tvaltura">Height (m) :</string>
+    <string name="tvpeso">"Weight (Kg) : "</string>
+    <string name="tvpress">BODY MASS INDEX</string>
+    <string name="exaltura">You must enter your height in Meters.</string>
+    <string name="expeso">You must enter your weight in Kilograms:</string>
+    <string name="eximc">"Your IMC   is : "</string>
+    <string name="develop">DEVELOPING BY :ANDRES VALENCIA</string>
+    <string name="pesonorm">:: BMI : NORMAL</string>
+    <string name="pesobajo">:: BMI : UNDERWEIGHT</string>
+    <string name="peso11">" :: BMI : OVERWEIGHT"</string>
+    <string name="peso22">" :: BMI : OBESE"</string>
+    <string name="peso33">" :: BMI : SEVERELY OBESE"</string>
+</resources>
