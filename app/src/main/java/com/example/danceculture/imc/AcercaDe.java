@@ -13,5 +13,6 @@ public class AcercaDe extends AppCompatActivity {
     }
     public void salir(View v) {
         finish();
+
     }
 }
